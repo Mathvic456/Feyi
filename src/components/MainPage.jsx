@@ -92,7 +92,7 @@ export default function MainPage() {
       id: 5,
       title: "Emergency! Call Victor!",
       icon: <Phone className="text-green-500" size={24} />,
-      onClick: () => window.open("tel:+1234567890")
+      onClick: () => window.open("tel:+2347062391997")
     },
     {
       id: 6,
