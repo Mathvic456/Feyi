@@ -19,9 +19,9 @@ const loveNotes = [
 ];
 
 const periodAffirmations = [
-  "Your feelings are valid. This too shall pass. 💖",
-  "You're strong, even on tough days. Be gentle with yourself. 🌸",
-  "Victor loves you exactly as you are—hormones and all! 😘"
+  "Stay strong babygurrrllll",
+  "You’re strong, even on tough days. Be gentle with yourself. 🌸",
+  "I know your hormones are all over the place but yeah, you can call me olodo if you want.",
 ];
 
 const careerAffirmations = [
